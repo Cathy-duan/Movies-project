@@ -1,0 +1,4 @@
+-IC:\Learning\C++\Section13\Challenge
+-std=c++14
+-target
+
